@@ -4,4 +4,5 @@
 
 ## Ссылки
 
-* [Руководство](docs/README.md)
+* [Контракты Rest API](docs/contract/README.md)
+* [Документирование API-интерфейса](docs/doc.md)
