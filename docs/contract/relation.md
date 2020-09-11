@@ -9,7 +9,7 @@
 
 ```json
 {
-		"expand": "category,tags,followers",
+	"expand": "category,tags,followers",
 }
 ```
 
