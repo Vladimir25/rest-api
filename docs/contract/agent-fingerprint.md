@@ -19,6 +19,6 @@
 
 ```json
 {
-		"X-Agent-Fingerprint": "976f3f264393f32e5e1544c54c09afd8"
+	"X-Agent-Fingerprint": "976f3f264393f32e5e1544c54c09afd8"
 }
 ```
