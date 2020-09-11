@@ -7,7 +7,7 @@
 
 ```json
 {
-		"parent_id": 12
+	"parent_id": 12
 }
 ```
 
@@ -15,8 +15,8 @@
 
 ```json
    {
-   		"parent_id": 12,
-   		"category_id": 21
+   	"parent_id": 12,
+   	"category_id": 21
    }
    ```
 
