@@ -4,6 +4,7 @@
 * [Заголовки](header.md)
 * [Ссылки](url.md)
 * [CRUD](crud.md)
+* [HTTP-методы](method.md)
 * Локальные параметры
     * [Связи](relation.md)
     * [Выборка полей](fields.md)
