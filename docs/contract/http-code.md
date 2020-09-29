@@ -25,6 +25,7 @@ HTTP-код
 * [200](http-code/200.md)
 * [201](http-code/201.md)
 * [204](http-code/204.md)
+* [304](http-code/304.md)
 * [400](http-code/400.md)
 * [401](http-code/401.md)
 * [403](http-code/403.md)
