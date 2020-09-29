@@ -1,10 +1,11 @@
 # Контракты Rest API
 
 * [Введение](intro.md)
-* [Заголовки](header.md)
+* [HTTP-Заголовки](header.md)
+* [HTTP-методы](method.md)
+* [HTTP-код](http-code.md)
 * [Ссылки](url.md)
 * [CRUD](crud.md)
-* [HTTP-методы](method.md)
 * Локальные параметры
     * [Связи](relation.md)
     * [Выборка полей](fields.md)
@@ -17,6 +18,5 @@
     * [Часовой пояс](time-zone.md)
     * [Мультиязычность](language.md)
     * [Отпечаток браузера](agent-fingerprint.md)
-* [HTTP-код](http-code.md)
 * [Формат времени](time-format.md)
 * [Версионность](version.md)
